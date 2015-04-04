@@ -37,6 +37,16 @@ follow-on (后续）
 
 ##Plan is guess
 
-Unless you're a **fortune-teller**,long-term business planing is a fantasy.
+Unless you're a **fortune-teller**,long-term business planing is a fantasy.There are just too many factors that are out of your hands:market conditions,competitors,custumers,the economy,etc.Writing a plan makes you feel in control of things you can't actually control.
+Why don't we just call plans what they really are:guesses.Start referring to your business plans as business guesses,your financial plans as financial guesses,and your strategic plans as strategic guesses.Now you can stop worrying about them as much.They just aren't worth the stress.
+When you turn guesses into plans,you enter a danger zone.Plans let the past drive the future.They put **blinders** on you。“This is where we're going because,well,that's where we said we were going."And that's the problem:Plans are inconsistent with **improvisation**
+
+And you have to be able to improvise.You have to be able to pick up oppotunities that come along.Somethings you need to say,"We're going in a new direction because that's what makes sense today.
+
+It's OK to wing it .Just get on the plane and go.You can pick up a nicer shirt,shaving cream,and a toothbrush once you get there.
+Working without a plan may seem scary.But blindly following a plan that has no relationship with reality is even scarier.
 
 fortune-teller 算命者
+blinder 眼罩
+improvisation 即兴创作
+

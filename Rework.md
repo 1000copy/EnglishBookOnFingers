@@ -21,3 +21,19 @@ In the business world,failure has become an expected **rite** of passage.You hea
 
 With no much failure in the air,you can't help but breathe it in .Don't **inhale**.Don't get fooled by the stats.Other peoples's failures are just that:other people's failures.
 
+if other people can't market their product,it has nothing to do with you.If other people can't build a team ,it has nothing to do with you.If other people can't price their services properly,it has nothing to do with you. If other people can't earn more than they spend...well,you get it .
+
+Another common misconception:You need to learn from your mistakes.What do you really learn from mistakes?You might learn what not to do again,but how valuable is that?You still don't know what you should do next.
+
+Contract that with learning from your successed.Success gives you real **ammunition**.When something succeeds,you know what worked--and you can do it again.And the next time,you'll probably do it even better.
+Failure is not a prerequisite for success.A Harvard Business School study found already-successful entrepreneurs are **far more likely to** succeed again(the success rate for their future companies is 34 percent).But entrepreneurs whose companies failed the first time had almost the same **follow-on** success rate as people starting a comany for the first time ：just 23 percent.People who failed before who have never tried at all.Success is the experience that actually counts.
+
+That shouldn't be a surprise:It's exactly how nature works.Evolution doesn't linger on past failures.it's always building upon what worked.So should you.
+
+far more likely to 更有可能
+ammunition(弹药)
+follow-on (后续）
+
+##Plan is guess
+
+Unless you're a fortune-teller,long-term business planing is a fantasy.

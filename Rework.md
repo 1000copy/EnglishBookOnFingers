@@ -77,7 +77,7 @@ Our culture
 
 Workaholism 醉心工作，迷恋工作
 
-Our culture celebrates the idea of the workaholic.We hear about people burning the midnight oil.They pull all-nighters and sleep at the office.It's considered a **badge** of honor to kill yourself over a project.**No amount of work is too much work**.
+Our culture celebrates the idea of the workaholic.We hear about people burning the midnight oil.They pull **all-nighters** and sleep at the office.It's considered a **badge** of honor to kill yourself over a project.**No amount of work is too much work**.
 Not only is this workaholism unneccessary,it's stupid.Working more doesn't mean you care more or get more done.It just means you work more.
 Workaholics wind up creating more problems thant the solve.First off,working like that just isn't **sustainable**over time.When the burnout crash comes--and it will--it'll hit that much harder.
 Workaholics miss the point,too.They try to fix problems by throwing **sheer** hours at them.They try to make up for **intellectual inelegant** solutions.
@@ -100,40 +100,43 @@ obligation 义务
  I find the corporate workaholic mentality of, the longer you spend at your desk the better the product will become, utterly ridiculous and literally, ass-in-seat. The best ideas I ever came up with occurred on a morning run in the park in Connecticut not sitting in my office on 6th avenue or any office anywhere for that matter.
 
 and GitHub: We Don't Take Ass-in-Seat Metrics to Measure Employee Performance | Inc.com - http://www.inc.com/nicole-carter/github-sxsw-scott-chacon.html
+```
+	all-nighter:开通宵夜车
+	morale 情绪 
+	moral 道德
+	guilt 罪恶感
+	Workaholics 工作狂
+	reasonable 合理的
+	merely working reasonable hours. 全然合理的工作时间
+	inadequate 不充足的； 不适当的； 不足胜任的； 信心不足的
+	merely 仅仅，只不过； 只是； 纯粹； 全然
+	get off 脱离，入睡
+	badge 奖章徽章
+	sheer 偏航
+	sustainable 可以忍受的，可以持续的
+	intellectual inelegant 有才智的，不雅
+	crises 危险，决定时刻，转折时刻
+	unwittingly 不知情地； 无意地； 不经意地； 不知不觉地
 
-morale 情绪 
-moral 道德
-guilt 罪恶感
-Workaholics 工作狂
-reasonable 合理的
-merely working reasonable hours. 全然合理的工作时间
-inadequate 不充足的； 不适当的； 不足胜任的； 信心不足的
-merely 仅仅，只不过； 只是； 纯粹； 全然
-get off 脱离，入睡
-badge 奖章徽章
-sheer 偏航
-sustainable 可以忍受的，可以持续的
-intellectual inelegant 有才智的，不雅
-crises 危险，决定时刻，转折时刻
-unwittingly 不知情地； 无意地； 不经意地； 不知不觉地
-No amount of work is too much work. 不太多的工作就是更好的工作?再多的工作也不算多?
+	No amount of work is too much work. 不太多的工作就是更好的工作?再多的工作也不算多?
 
-How Much Work Is Too Much Work? What Is the Limit to Productivity? - http://www.tlnt.com/2013/04/23/how-much-work-is-too-much-work-what-is-the-limit-to-productivity/
+	How Much Work Is Too Much Work? What Is the Limit to Productivity? - http://www.tlnt.com/2013/04/23/how-much-work-is-too-much-work-what-is-the-limit-to-productivity/
 
-To keep that from occurring, set deliberate limits on your work time. **No amount of work will make you more productive** than a reasonable work/life balance, especially once you hit the point of diminishing returns at about 10-12 hours per day.
+	To keep that from occurring, set deliberate limits on your work time. **No amount of work will make you more productive** than a reasonable work/life balance, especially once you hit the point of diminishing returns at about 10-12 hours per day.
 
-no amount of  怎么（再多）也…不
+	no amount of  怎么（再多）也…不
 
-1. No amount of reasoning could shake him out of his conviction.	
-再怎样跟他讲道理都不能让他放弃自己认准的事。
-来自柯林斯例句
-2. No amount of tinkering is going to improve matters.	
-任何小修小补都是于事无补的。
-3. No amount of prodding will budge him.	
-不管怎么刺激都不会让他改变主意。
-来自柯林斯例句
-4. No amount of coaxing will make me change my mind.	
-任你费尽口舌也不会说服我改变主意。
+	1. No amount of reasoning could shake him out of his conviction.	
+	再怎样跟他讲道理都不能让他放弃自己认准的事。
+	来自柯林斯例句
+	2. No amount of tinkering is going to improve matters.	
+	任何小修小补都是于事无补的。
+	3. No amount of prodding will budge him.	
+	不管怎么刺激都不会让他改变主意。
+	来自柯林斯例句
+	4. No amount of coaxing will make me change my mind.	
+	任你费尽口舌也不会说服我改变主意。
 
 
-first off 立刻马上
+	first off 立刻马上
+```

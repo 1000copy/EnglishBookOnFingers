@@ -25,7 +25,47 @@ if you're going to do something,do something that matters.**These little guys ca
 
 	dent 痕迹
 	cure 治愈，良方
-
+	nowhere 无处，任何地方，任何地方都不
 Scratch your own itch
-itch 痒
+
+The easiest,most straightforward way to create a great product or service is to make something you want to use.That lets you design what you know-and you'll figure out immediately whether or not what you're making is any good.
+At 37signals,we build products we needed to run our own business.For example,we wanted a way to keep track of whom we talked to,what we said,and when we need to follow up next.So we created Highrise,our contact-management software.There was no need for focus groups,market studies,or middlemen.We had the itch,so we scratched it.
+When you build a product or services,you make the call on hundreds of tiny decisions each day.If you're solving someone else's problem,you're constantly stabbing in the dark.When you solve your own problem,the light come on.You know exactly what the right answer is.
+Inventor Jame Dyson scratched his own itch.While vacuuming his home,he realized his bag vacuum cleaner was constantly losing suction power-dust kept clogging the pores in the bag and blocking the airflow.It wasnot someone else's imaginary problem;it was a real one that he experientce firsthand.So he decided to solve the problem and came up with the world's first cyclonic,bagless vacuum cleaner.
+
+Vic Firth came up with the idea of making a better drumstick while playing timpani for the bostom Symphony Orchestra.The sticks he could buy commercially didn't measure up to the job,so he began making and selling drumsticks from his basement at home.Then one day he dropped a bunch of sticks on he floor and heard all the different pitches.That's when he began to match up sticks by moisture content,weight,density,and pitch so they were identical pairs.The result became his product's tag line:Lthe perfect pair.Today,Vic Firth's factory turns out more than 85,000 drumsticks a day and has a 62 percent share in the drumstick market.
+
+Track coach Bill Bowerman decided that his team needed better,lighter running shoes.So he went out to his workshop and poured rubber into the familly waffle iron.That's how Nike's famous waffle sole was born.
+
+These people scratched their own itch and exposed a huge market of people who needed exactly what they needed.That's how you should do it too.
+
+When you build what you need,you can also assess the quality of what you make quickly and directly,instead of by proxy.
+
+Mary Kay Wagner,founder of Mary Kay Cosmetics,knew her skin-care products were great because she used them herself,She got them form a local cosmetologist who sold homemade foumulas to patients,relatives,and friends.When the cosmetologist passed away,Wagner bought the formulas from the family.She ditn't need focus groups or studies to know the products were good.She justhad to look at her own skin.
+
+Best of all,this "solve your own problem" approach lets you fall in love with what youu 're making.You know the problem and the value of its solution intimately.There's no substitute for that.After all,you'll(hopefully)be working on this for years to come.Maybe even the rest of your life.It better be something you really care about.
+
+	cosmetologist 美容品业者，美容师
+	cyclonic 气旋的
+	suction  吸
+	vacuuming 真空，用真空吸尘器清扫
+	pores 微孔，细看； 钻研； 凝视
+	clogging 塞
+	stabbing  尖利的
+	itch 痒
+	Bostom Symphony Orchestra 波士顿交响乐团
+	timpani 定音鼓
+	basement 地下室
+	moisture content 水分含量
+	pitch  扔，投
+	measure up to the job
+	Track 田径
+	coach 教练
+	pour 浇灌
+	waffle iron 
+	sole 单独的； 惟一的； 专有的，独占的
+
+###Start making something
+	
+
 

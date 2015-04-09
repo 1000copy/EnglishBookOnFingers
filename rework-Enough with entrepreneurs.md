@@ -67,5 +67,12 @@ Best of all,this "solve your own problem" approach lets you fall in love with wh
 
 ###Start making something
 	
+We all have that one friend who says:"I had the idea for Ebay",if only I had acted on it,I'd be a billionaire!",That logicis pathetic and delusional.Having the idea for Ebay has nothing to do with actually creating Ebay.What you do is what matters,not what you think or say or plan.
+Think your idea's that valuable?Then go try to sell it and see what you get for it.Not much is probably the answer.Until you actually start making something,your brilliant idea is just that,an idea.And everyone's got one of those.
+Stanley Kubrick gave this advice to aspiring filmmakers:"Get hold of a camera and some film and make a movie of any kind at all."Kubrick knew that when you're new at something,you need to start creating.The most important thing is to begin.So get a camera,hit Record,and start shooting.
+Ideas are cheap and plentiful.The original pitch idea is such a small part of a business that it's almost negligible.The real question is how well you execute.
 
+pathetic 可怜的
+delusional 妄想的
+negligible  微不足道的
 

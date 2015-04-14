@@ -1,4 +1,4 @@
-Enough with entrepreneurs
+###Enough with entrepreneurs
 
 Let's retire the term entrepreneur.It's outdated and loaded with baggage.It smells like a members-only club.Everyone should be encourgeed to start his own business,not just some rare breed that self-inentifies as entrepreneurs.
 There's a new group o people out there starting businesses.They're turning profits yet never think of themselves as entrepreneurs.A lot of them don't even think of themselves as business owners.They are just doing what they love on their own terms and getting paid of it.
@@ -12,7 +12,7 @@ Leslie Berlin,Try,Try again,or Maybe not,"New York Times,Mar.21 2009"
 
 chapter GO
 
-Make a dent in the universe
+###Make a dent in the universe
 
 To do great work,you need to feel that you're making a difference.That you're putting a meaningfull dent in the universe.That you're part of something important.
 This doesn't mean you need to find the **cure** for cancer,It's just that your efforts need to feel valuable.You want your customers to say,"This makes my life better."You want to feel that if you stopped doing what you do,people would notice.
@@ -26,7 +26,7 @@ if you're going to do something,do something that matters.**These little guys ca
 	dent 痕迹
 	cure 治愈，良方
 	nowhere 无处，任何地方，任何地方都不
-Scratch your own itch
+###Scratch your own itch
 
 The easiest,most straightforward way to create a great product or service is to make something you want to use.That lets you design what you know-and you'll figure out immediately whether or not what you're making is any good.
 At 37signals,we build products we needed to run our own business.For example,we wanted a way to keep track of whom we talked to,what we said,and when we need to follow up next.So we created Highrise,our contact-management software.There was no need for focus groups,market studies,or middlemen.We had the itch,so we scratched it.
@@ -76,3 +76,11 @@ pathetic 可怜的
 delusional 妄想的
 negligible  微不足道的
 
+###no time to excuse
+
+the most common excuse people give:There's not enough time.They claim they'd love to start a 
+company,learn an instrucment,market an invention,write a book,or whatever,but there just arenot enough hours
+in the day
+
+come on.there's always enough time if you spend it right.And dont think you have to quit
+your day job,either
